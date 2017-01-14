@@ -9,7 +9,7 @@ This is used to assess a student's level of digital literacy and gain a baseline
 ### Complete the assessment by determining if the student is able to complete the following tasks: 
 
 **General Hardware Operations - 19 pts total (0 - 14 pts Support Needed)**
-- [x] Identify the keyboard - 5 pts
+- [xx] Identify the keyboard - 5 pts
 - [x] Identify the computers mouse/mouse pad - 5 pts
 - [x] Identify the screen/monitor - 5 pts
 - [x] Turn the computer on and login - 2 pts
